@@ -1,0 +1,12 @@
+{
+  "name": "pi-protected-branches-ext",
+  "version": "1.0.0",
+  "description": "Blocks git push and commit on protected branches",
+  "main": "protected-branches.ts",
+  "keywords": ["pi", "extension", "git", "protected", "branches", "safety"],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}
