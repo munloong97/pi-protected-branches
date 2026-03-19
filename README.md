@@ -1,4 +1,4 @@
-# pi-protected-branches-ext
+# pi-protected-branches
 
 A Pi extension that prevents accidental commits and pushes to protected branches.
 
